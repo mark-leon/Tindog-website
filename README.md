@@ -1,1 +1,2 @@
-# Tindog-website
+# DogFinder-website
+Bootstrap DogFinder website
